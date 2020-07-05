@@ -1,0 +1,24 @@
+Ryan Wenham 627002098 506 ryanjw0903@tamu.edu
+***************************************************************************************************
+I certify that I have listed all the sources that I used to develop the solutions and code to the
+submitted work.
+
+    On my honor as an Aggie, I have neither given nor received any unauthorized help
+    on this academic work.
+
+    Ryan Wenham 2/19/2020
+
+ ****************************************************************************************************** 
+Resources: Double linked list sldies, cplusplus.com, stack-overflow
+
+Problems: None 
+
+Pseudocode: 
+Built a class linkded queue that is an adapter patter on our templeted class from part two. Had to 
+build a enqueue, dequeue, size, and empty fucntion that all called the templated functions. In additon
+a min to get the min value from the list.
+
+
+Testesd: 
+Built a for loop to enqueue the values, then asked for min value and then dequeue
+the list making sure it outputted all the correct values.

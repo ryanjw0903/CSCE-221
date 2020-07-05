@@ -1,0 +1,3 @@
+/cygdrive/c/Users/ryanj/OneDrive/221/hw#1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/ryanj/OneDrive/221/hw#1/cmake-build-debug/CMakeFiles/hw_1.dir
+/cygdrive/c/Users/ryanj/OneDrive/221/hw#1/cmake-build-debug/CMakeFiles/edit_cache.dir

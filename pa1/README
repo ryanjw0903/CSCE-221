@@ -1,0 +1,41 @@
+Ryan Wenham, 627002098, 506, ryanjw0903, ryanjw0903@tamu.edu
+I certify that I have listed all the sources that I used to develop the solutions and code to the
+submitted work.
+On my honor as an Aggie, I have neither given nor received any unauthorized help
+on this academic work. Ryan Wenham 1/18/2020
+Resoruces:
+www.cplusplus.com
+www.learncpp.com
+www.geeksforgeeks.org
+
+Pseudocode :
+For Stress ball there is header file for the declarations and a cpp source file that has implentation of the functions
+Inside the Stress_ball class there is two enumeranated classes for size and color. We had to make
+a constructor that would randomly select from those two classes and output it. In addition
+Had to build a an function to mannually select the color and size and a overload operator to compare any
+two stress balls.
+For the Collection class i built a header and cpp. The collection class used a dynamic array of type stress ball. The
+class would be able to return what colors of ball there is, compare them, remove, and give basic information. Because it
+is dynamic memeory had to implement the rule of three.
+To test my collection class i built a new main cpp that would try different tests from my class to see if they work. In
+addition had to build 3 different types of sort to sort our stress balls.
+For part 3 had to templet the collection class so i could use it with other sets like jeans. The
+the template was obj, F1,F2 and i replaced all the previous refrences of these in collection.h with the
+new templates variables. I made a jeans.cpp and .h that is identical to stress_ball.cpp and .h.
+In addition a jeans_test to try out the new object and test my templated collection class.
+
+Tested:
+To test the collection and stress ball. I made two input filed to read in a then make a collection.
+From there i tested every function multipule times and running the results to see if it lined up correctly evrytime with
+different sorts.
+
+ Part 3
+Write about the generic programming using templates based on this assignment Part 3?
+ - Templates are powerful tools for a coder to have, what is does is allow anyone to make a object that fits the
+ templates requirments and can run instantly with the templated class. This idea is extremely important when working with
+ teams.  It allows each of you to use your own types and names but to all work when run on the templated class to
+ test what you had built. To build a templated class it must be done in the header file of the class. You
+ have to declare the template before the class and use it typename in your class functions to use it. When declaring
+ each function outside the main body of the class you must type out the template again before the fucntion
+  and include <Obj,F1,F2> within each functions name so it can use the templated arguments.
+

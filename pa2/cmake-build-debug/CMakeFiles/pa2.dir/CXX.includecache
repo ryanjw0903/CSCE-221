@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ryanj/OneDrive/221/pa2/DLList.cpp
+stdexcept
+-
+DLList.h
+/cygdrive/c/Users/ryanj/OneDrive/221/pa2/DLList.h
+
+/cygdrive/c/Users/ryanj/OneDrive/221/pa2/DLList.h
+iostream
+-
+

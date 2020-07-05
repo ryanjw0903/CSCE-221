@@ -1,0 +1,24 @@
+Ryan Wenham 627002098 506 ryanjw0903@tamu.edu
+***************************************************************************************************
+I certify that I have listed all the sources that I used to develop the solutions and code to the
+submitted work.
+
+    On my honor as an Aggie, I have neither given nor received any unauthorized help
+    on this academic work.
+
+    Ryan Wenham 2/19/2020
+
+ ****************************************************************************************************** 
+Resources: Double linked list sldies, cplusplus.com, stack-overflow, https://www.out4mind.com/en/doubly-linked-list-with-class-templates-part-i/
+
+Problems: None 
+
+Pseudocode: 
+For the templated version i took the int base verison in part and add the templated typename T. 
+This required me to move everything to the the header file. In the headr file i had to celcre typename T
+for each memeber function outside the class. In addtion do <T> for the decalration of the class and for every DDListnode and DLList.
+
+
+Testesd: 
+Used the test that where given and built 4 of my own to test insert after/before and 
+remove after/before.

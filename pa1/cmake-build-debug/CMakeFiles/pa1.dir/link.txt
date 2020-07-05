@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/pa1.dir/Stress_ball.cpp.o CMakeFiles/pa1.dir/Stress_ball_test.cpp.o CMakeFiles/pa1.dir/collection_test.cpp.o CMakeFiles/pa1.dir/Jeans.cpp.o CMakeFiles/pa1.dir/jeans_test.cpp.o  -o pa1.exe -Wl,--out-implib,libpa1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

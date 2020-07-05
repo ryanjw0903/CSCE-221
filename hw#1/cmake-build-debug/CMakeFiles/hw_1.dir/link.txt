@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/hw_1.dir/main.cpp.o  -o hw_1.exe -Wl,--out-implib,libhw_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

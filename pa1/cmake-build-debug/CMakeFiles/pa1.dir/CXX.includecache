@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ryanj/OneDrive/221/pa1/Collection.h
+iostream
+-
+string
+-
+
+/cygdrive/c/Users/ryanj/OneDrive/221/pa1/Stress_ball.h
+iostream
+-
+
+/cygdrive/c/Users/ryanj/OneDrive/221/pa1/Stress_ball_test.cpp
+iostream
+-
+cstdlib
+-
+Stress_ball.h
+/cygdrive/c/Users/ryanj/OneDrive/221/pa1/Stress_ball.h
+Collection.h
+/cygdrive/c/Users/ryanj/OneDrive/221/pa1/Collection.h
+fstream
+-
+sstream
+-
+

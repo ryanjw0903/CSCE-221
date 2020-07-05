@@ -1,0 +1,24 @@
+Ryan Wenham 627002098 506 ryanjw0903@tamu.edu
+***************************************************************************************************
+I certify that I have listed all the sources that I used to develop the solutions and code to the
+submitted work.
+
+    On my honor as an Aggie, I have neither given nor received any unauthorized help
+    on this academic work.
+
+    Ryan Wenham 2/19/2020
+
+ ****************************************************************************************************** 
+Resources: Double linked list sldies, cplusplus.com, stack-overflow
+
+Problems: None 
+
+Pseudocode: 
+We have buitl a double linked list. There is struct that defines each node, and then a class
+defined to allow us to dynamiccaly make new nodes an make them all linked. In the class we defined
+many functions to insert and remove nodes from the linked list.  
+
+
+Testesd: 
+Used the test that where given and built 4 of my own to test insert after/before and 
+remove after/before.

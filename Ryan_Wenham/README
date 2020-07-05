@@ -1,0 +1,24 @@
+Ryan Wenham, 627002098, 506, ryanjw0903, ryanjw0903@tamu.edu
+I certify that I have listed all the sources that I used to develop the solutions and code to the
+submitted work.
+On my honor as an Aggie, I have neither given nor received any unauthorized help
+on this academic work. Ryan Wenham 1/18/2020
+Resoruces:
+www.cplusplus.com
+www.learncpp.com
+www.geeksforgeeks.org
+
+Pseudocode :
+I have a header file for the declarations and a cpp source file that has implentation of the functions
+Inside the Stress_ball class there is two enumeranated classes for size and color. We had to make
+a constructor that would randomly select from those two classes and output it. In addition
+Had to build a an function to mannually select the color and size and a overload operator to compare any
+two stress balls.
+
+Tested:
+I tested it but running in muitple times to make sure the colors and size where 100% random and there
+no sort of pattern. I also ran it on my clions own complier and the putty many times to make sure it worked on both
+To handle any errors i would ask the code to output what is seeing right there at that point in time to see the issue
+that is up, unless the debugger told me exactly what it is.
+
+
